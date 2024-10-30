@@ -1,0 +1,75 @@
+# Copyright (C) 2015 Mm Ajax Login
+# This file is distributed under the same license as the Mm Ajax Login package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mm Ajax Login 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mm-ajax-login\n"
+"POT-Creation-Date: 2015-08-23 05:49:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: mm-ajax-login.php:56 mm-ajax-login.php:92
+msgid "Attempting login..."
+msgstr ""
+
+#: mm-ajax-login.php:91
+msgid "Site Login"
+msgstr ""
+
+#: mm-ajax-login.php:93
+msgid "Username or E-mail Address:"
+msgstr ""
+
+#: mm-ajax-login.php:94
+msgid "Password:"
+msgstr ""
+
+#: mm-ajax-login.php:95
+msgid "Remember Me"
+msgstr ""
+
+#: mm-ajax-login.php:96
+msgid "Lost your password?"
+msgstr ""
+
+#: mm-ajax-login.php:97
+msgid "Login"
+msgstr ""
+
+#: mm-ajax-login.php:200
+msgid "The e-mail address you entered does not match a current user."
+msgstr ""
+
+#: mm-ajax-login.php:201
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: mm-ajax-login.php:202
+msgid "Wrong username or password."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mm Ajax Login"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/mm-ajax-login/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A custom lightbox login form that serves as a gatekeeper for links with the "
+"class \"ajax-login-trigger\""
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MIGHTYminnow, Braad Martin"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mightyminnow.com"
+msgstr ""
